@@ -1,5 +1,6 @@
 - @JordanShore
-- I am a 4th year undergraduate laboratory assistant in the Cortopassi Laboratory at UC Davis.
+- UC Davis; B.S. in Neurobiology, Physiology, and Behavior. Minor in Spanish.
+- I am a laboratory assistant in the Cortopassi Laboratory at UC Davis.
 - I code and test python protocols for the Opentrons OT-2 Robot. 
 - How to reach me: jsshore@ucdavis.edu
 
